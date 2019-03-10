@@ -6,4 +6,4 @@ then the blockchain can be accessed. every hash is generated randomly when user 
 
 
 
-open OLDNODE.
+open OLD_node
